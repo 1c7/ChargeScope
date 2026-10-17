@@ -29,3 +29,5 @@
 下载 [最新 APK](https://github.com/1c7/ChargeScope/releases/latest)，传到手机点击安装，需允许「安装未知来源应用」。调试签名，仅供自装。
 
 技术细节见 [`doc/`](doc/)。许可 [MIT](LICENSE)。
+
+## 你可以让你的 AI 参考这个 App，去开发适合你手机的应用（华为，荣耀，小米，VIVO，等等）
