@@ -1,6 +1,6 @@
 # 安卓 App："多少瓦"
 
-**ChargeScope** — a minimal Android app showing real-time charging wattage (W) and time to full. Kotlin, zero permissions, no ads.
+[English](README.en.md) | **中文**
 
 插上充电线，看充电功率（W），还要多久充满。
 
@@ -28,14 +28,8 @@
 
 技术细节见 [`doc/`](doc/)。许可 [MIT](LICENSE)。
 
-## English
-
-A minimal Android app that shows real-time charging wattage (W) and estimated time to full for phones whose system UI hides the number. Native Kotlin, zero third-party dependencies, zero permissions, no ads, 2 MB.
-
-Only tested on OPPO Find X8s (Android 16). Other devices are unsupported — reading battery current/voltage differs wildly across OEMs.
-
 ## 你可以让你的 AI 参考这个 App，去开发适合你手机的应用（华为，荣耀，小米，VIVO，等等）
 
 这份代码的读法只对 OPPO 有效。其他品牌（华为、荣耀、小米、vivo、三星）开放的电池接口、权限、电流单位都不一样，直接抄过去大概率读不出数。
 
-把整个仓库连同 [`doc/`](doc/) 交给你的 AI，让它照 `doc/2` 的思路在你的机型上重新实测一遍——比自己摸索快得多，也比等别人适配快。
+把整个仓库连同 [`doc/`](doc/) 交给你的 AI，让它照 [`doc/2`](doc/2-各家手机读取电池数据的差异.md) 的思路在你的机型上重新实测一遍——比自己摸索快得多，也比等别人适配快。
