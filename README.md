@@ -4,9 +4,7 @@
 
 ## 只适配 OPPO Find X8s
 
-**仅在一台 OPPO Find X8s（Android 16）上实测验证过，其他机型没有测试，也不打算适配。**
-
-不同厂商开放的电池数据差异极大，换台手机能不能显示、显示得准不准，全看运气。
+**仅在一台 OPPO Find X8s（Android 16）上实测验证过，其他机型没有测试**
 
 <p align="center">
   <img src="screenshots/充电中.png" width="240" />
@@ -18,7 +16,7 @@
   <sub>充电中 · 拔掉线 · 长按大数字看原始读数</sub>
 </p>
 
-## 为什么还要做一个
+## 为什么还要做一个充电速度 App
 
 同类 App 上百个，但要么收费、要么看广告；更麻烦的是它们在这台机器上大多读不出数——ColorOS 用 SELinux 封掉了 `/sys/class/power_supply`，系统给的电流单位又和 Android 文档写的差 1000 倍，于是只显示 `-- W`。
 
