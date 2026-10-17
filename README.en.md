@@ -18,7 +18,7 @@ Plug in the charger and see the actual charging wattage (W) and how long until f
   <sub>Charging · unplugged · long-press the big number for raw readings</sub>
 </p>
 
-## Why build another one
+## Why build another charging app?
 
 There are hundreds of charging apps already. Most of them want money or show ads — and on this phone most of them can't read the number at all. This one does a single thing: open it, get a real number, pay nothing, watch no ads. The whole source is public so you can adapt it in an afternoon instead of guessing for days.
 
