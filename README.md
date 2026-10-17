@@ -1,5 +1,7 @@
 # 安卓 App："多少瓦"
 
+**ChargeScope** — a minimal Android app showing real-time charging wattage (W) and time to full. Kotlin, zero permissions, no ads.
+
 插上充电线，看充电功率（W），还要多久充满。
 
 ## 适配手机型号：OPPO Find X8s
