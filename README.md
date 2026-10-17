@@ -1,12 +1,10 @@
-# 安卓 App："多少瓦"
+# 安卓 App "多少瓦"
 
 [English](README.en.md) | **中文**
 
 插上充电线，看充电功率（W），还要多久充满。
 
-## 适配手机型号：OPPO Find X8s
-
-**仅在一台 OPPO Find X8s（Android 16）上实测验证过，其他机型没有测试**
+## 安卓 App 截图
 
 <p align="center">
   <img src="android/doc/images/充电中.png" width="240" />
@@ -17,6 +15,9 @@
 <p align="center">
   <sub>充电中 · 拔掉线 · 长按大数字看原始读数</sub>
 </p>
+
+## 适配手机型号：OPPO Find X8s
+仅在一台 OPPO Find X8s（Android 16）上实测验证过，其他机型没有测试
 
 ## 为什么还要做一个充电功率 App？
 
