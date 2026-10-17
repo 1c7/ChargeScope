@@ -39,3 +39,7 @@ A minimal Android app that shows real-time charging wattage (W) and estimated ti
 Only tested on OPPO Find X8s (Android 16). Other devices are unsupported — reading battery current/voltage differs wildly across OEMs.
 
 ## 你可以让你的 AI 参考这个 App，去开发适合你手机的应用（华为，荣耀，小米，VIVO，等等）
+
+这份代码的读法只对 OPPO 有效。其他品牌（华为、荣耀、小米、vivo、三星）开放的电池接口、权限、电流单位都不一样，直接抄过去大概率读不出数。
+
+把整个仓库连同 [`doc/`](doc/) 交给你的 AI，让它照 `doc/2` 的思路在你的机型上重新实测一遍——比自己摸索快得多，也比等别人适配快。
