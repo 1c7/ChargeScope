@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+.kotlin/
+
+# 本机 SDK 路径，不应进仓库
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# 签名
+*.jks
+*.keystore
