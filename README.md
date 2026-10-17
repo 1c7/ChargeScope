@@ -32,4 +32,10 @@
 
 技术细节见 [`doc/`](doc/)。许可 [MIT](LICENSE)。
 
+## English
+
+A minimal Android app that shows real-time charging wattage (W) and estimated time to full for phones whose system UI hides the number. Native Kotlin, zero third-party dependencies, zero permissions, no ads, 2 MB.
+
+Only tested on OPPO Find X8s (Android 16). Other devices are unsupported — reading battery current/voltage differs wildly across OEMs.
+
 ## 你可以让你的 AI 参考这个 App，去开发适合你手机的应用（华为，荣耀，小米，VIVO，等等）
