@@ -9,9 +9,9 @@ Plug in the charger and see the actual charging wattage (W) and how long until f
 **Tested on exactly one phone — OPPO Find X8s (Android 16). No other device has been tested, and none is supported.**
 
 <p align="center">
-  <img src="screenshots/充电中.png" width="240" />
-  <img src="screenshots/未充电.png" width="240" />
-  <img src="screenshots/原始数据.png" width="240" />
+  <img src="doc/images/充电中.png" width="240" />
+  <img src="doc/images/未充电.png" width="240" />
+  <img src="doc/images/原始数据.png" width="240" />
 </p>
 
 <p align="center">

@@ -9,9 +9,9 @@
 **仅在一台 OPPO Find X8s（Android 16）上实测验证过，其他机型没有测试**
 
 <p align="center">
-  <img src="screenshots/充电中.png" width="240" />
-  <img src="screenshots/未充电.png" width="240" />
-  <img src="screenshots/原始数据.png" width="240" />
+  <img src="doc/images/充电中.png" width="240" />
+  <img src="doc/images/未充电.png" width="240" />
+  <img src="doc/images/原始数据.png" width="240" />
 </p>
 
 <p align="center">
